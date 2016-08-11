@@ -1,0 +1,7 @@
+# Command Output
+pink Pink Fluffy Unicorns Dancing On Rainbows
+quit Bye bye !
+leave See you soon !
+rr https://www.youtube.com/watch?v=oHg5SJYRHA0
+lost See : http://losethegame.com/
+test Useless command ...
